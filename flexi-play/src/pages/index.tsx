@@ -1,7 +1,3 @@
-
-
 export default function Home() {
-  return (
-<div>so</div>
-  );
+  return <div>suwan 7abeeb</div>;
 }
