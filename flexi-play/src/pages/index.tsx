@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <div>alaa</div>
+    <div>alaa </div>
   );
 }
